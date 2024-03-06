@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/sifat-site/static/css/main.f539dc57.css",
-    "main.js": "/sifat-site/static/js/main.a81a8903.js",
-    "static/js/787.326cd16d.chunk.js": "/sifat-site/static/js/787.326cd16d.chunk.js",
-    "index.html": "/sifat-site/index.html",
-    "main.f539dc57.css.map": "/sifat-site/static/css/main.f539dc57.css.map",
-    "main.a81a8903.js.map": "/sifat-site/static/js/main.a81a8903.js.map",
-    "787.326cd16d.chunk.js.map": "/sifat-site/static/js/787.326cd16d.chunk.js.map"
+    "main.css": "/sifatappfe/static/css/main.f539dc57.css",
+    "main.js": "/sifatappfe/static/js/main.d951826d.js",
+    "static/js/787.326cd16d.chunk.js": "/sifatappfe/static/js/787.326cd16d.chunk.js",
+    "index.html": "/sifatappfe/index.html",
+    "main.f539dc57.css.map": "/sifatappfe/static/css/main.f539dc57.css.map",
+    "main.d951826d.js.map": "/sifatappfe/static/js/main.d951826d.js.map",
+    "787.326cd16d.chunk.js.map": "/sifatappfe/static/js/787.326cd16d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f539dc57.css",
-    "static/js/main.a81a8903.js"
+    "static/js/main.d951826d.js"
   ]
 }
