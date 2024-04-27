@@ -29,3 +29,13 @@ jobs:
     - run: npm ci
     - run: npm run build --if-present
     - run: npm test
+    
+    - uses: actions/checkout@v3
+    - uses: advanced-security/sbom-generator-action@v0.0.1
+      id: sbom
+      env: 
+        GITHUB_TOKEN: ${{ github.token }}
+    - uses: actions/upload-artifact@v3.1.0
+      with: 
+        path: ${{steps.sbom.outputs.fileName }}
+        name: "SBOM"
